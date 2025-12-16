@@ -1,0 +1,7 @@
+{
+  "name": "NavidadAI en Urbantech",
+  "description": "Transforma tus fotos con magia navideña utilizando Gemini 2.5 Flash Image. Añade gorros, cambia fondos y crea recuerdos festivos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
